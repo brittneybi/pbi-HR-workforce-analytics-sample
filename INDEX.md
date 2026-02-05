@@ -23,7 +23,8 @@ This project showcases practical HR analytics in Power BI: **point‑in‑time h
   - `Page2-HIRES&SEPARATIONS.png` – new hires & separations (terminations/resignations)
   - `Page3-COMPENSATION&RUN-RATE.png` – financial trends and key metrics
   - `Page4-LOCATION.png` – employee metrics by location
-  - `Page5-employee-drillthrough.png` – drill-through page to view table of detailed employee data
+  - `Page5-PERFORMANCE RATINGS.png` – analysis of performance ratings
+  - `employee-drillthrough-page.png` – drill-through page to view table of detailed employee data
   - `methodology.md` – approach & assumptions
 
 ---
