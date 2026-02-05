@@ -62,7 +62,12 @@ A focused Power BI report for analyzing workforce composition and compensation. 
     loading="lazy"
 />
 <img
-    src="https://raw.githubusercontent.com/brittneybi/pbi-HR-workforce-analytics-sample/main/documentation/Page5-employee-drillthrough.png"
+    src="https://raw.githubusercontent.com/brittneybi/pbi-HR-workforce-analytics-sample/main/documentation/Page5-PERFORMANCE RATINGS.png"
+    alt="HR Workforce &amp; Compensation Analytics — Performance Ratings Analysis page"
+    loading="lazy"
+/>
+<img
+    src="https://raw.githubusercontent.com/brittneybi/pbi-HR-workforce-analytics-sample/main/documentation/employee-drillthrough-page.png"
     alt="HR Workforce &amp; Compensation Analytics — Employee drillthrough page"
     loading="lazy"
 />
