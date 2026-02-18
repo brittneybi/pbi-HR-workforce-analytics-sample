@@ -271,7 +271,7 @@ _AsOfDate =
             -- Fallback when the page has no date filter at all
             EOMONTH ( TODAY (), 0 )
         )
-Y := YEAR([_AsOfDate])
+Y = YEAR([_AsOfDate])
 
 // Active Headcount (point-in-time)
 Active Headcount =
